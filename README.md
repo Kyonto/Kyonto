@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kyonto aka Sivaguru Muralidharan
 - 👀 I’m interested in Python, but still finding my path
-- 🌱 I’m currently learning C (Not by choice, learning it as a part of University Sylabus)
+- 🌱 I’m currently learning C (Not by choice, learning it as a part of University Sylabus. It is Fun though)
 - 📫 How to reach me sivagurumuralidharan@yahoo.com
 
 <!---
